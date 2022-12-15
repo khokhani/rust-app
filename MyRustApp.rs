@@ -1,1 +1,3 @@
-My Rust application
+My First Rust application
+
+This is updated file.
